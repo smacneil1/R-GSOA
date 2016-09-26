@@ -1,0 +1,3 @@
+GSOA                    Executes the Gene Set Omic Analysis method
+GSOA_ProcessFiles       Loads data files and then executes the Gene Set
+                        Omic Analysis method
